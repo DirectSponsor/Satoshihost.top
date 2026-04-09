@@ -1,5 +1,9 @@
 # satoshihost.top
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/DirectSponsor/Satoshihost.top)
+
+**Live site: [satoshihost.top](https://satoshihost.top/)**
+
 This is a one-page temporary site for a free web hosting service called "satoshihost.top". The service provides a full DirectAdmin panel with all the features of a paid hosting plan, in exchange for users completing simple web tasks like surveys and PTC.
 
 ## About
